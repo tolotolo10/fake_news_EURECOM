@@ -3,5 +3,8 @@
 
 Authors: Deepika SIVASANKARAN, Mohd AAMIR
 
-Codes: 1. Sentence_embedding.ipynb: Sentence embedding extraction
-       2. Image_embedding.ipynb: Image embedding extraction
+Codes: 
+       <br />1. Sentence_embedding.ipynb: Sentence embedding extraction
+       <br />2. Image_embedding.ipynb: Image embedding extraction
+       <br />
+       <br />
